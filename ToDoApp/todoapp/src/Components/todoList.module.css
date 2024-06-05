@@ -5,3 +5,11 @@
   width: 500px;
   margin: 0 auto;
 }
+
+.noList {
+  color: gray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 30px;
+}
